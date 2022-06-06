@@ -63,6 +63,9 @@ class rectangle:
 # class Sphere:
 #     def __init__(self,r):
 #         self.r=r
+class Sphere:
+    def __init__(self,radius):
+        self.radius=radius
         
 def surface_area(self):
     pie=3.14
